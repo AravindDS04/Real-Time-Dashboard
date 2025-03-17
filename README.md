@@ -1,4 +1,4 @@
-# Real-Time-Dashboard
+# Real-Time-Reddit-Trends-Dashboard
 This project is a **Real-Time Reddit Trends Dashboard** built using **Streamlit** and the **Reddit API**. It tracks trending posts from a specified subreddit and displays them in real-time.
 
 ---
@@ -16,7 +16,7 @@ This project is a **Real-Time Reddit Trends Dashboard** built using **Streamlit*
 - **PRAW**: For accessing the Reddit API.
 - **Pandas**: For data manipulation and display.
 
-#Author
+# Author
 
 **Aravind S**
 **Linked In: www.linkedin.com/in/
