@@ -1,14 +1,20 @@
 # Real-Time-Dashboard
-This project is a **Real-Time COVID-19 Dashboard** built using **Streamlit** and **Plotly**. It visualizes live (simulated) COVID-19 data for a selected country, providing an interactive and dynamic interface for users to explore the data.
+This project is a **Real-Time Reddit Trends Dashboard** built using **Streamlit** and the **Reddit API**. It tracks trending posts from a specified subreddit and displays them in real-time.
 
-#Features
-**Country Selection**: Choose a country from the dropdown menu to view its COVID-19 data.
-**Real-Time Updates**: Simulated real-time updates refresh the data every 5 seconds.
-**Interactive Charts**: A line chart displays the trend of confirmed COVID-19 cases over time.
-**Raw Data Display**: Toggle the display of raw data for deeper analysis.
-**Responsive Design**: Works well on both desktop and mobile devices.
+---
 
-The *DATASET* link is given in the code file
+## Features
+- **Subreddit Selection**: Enter a subreddit name to view its trending posts.
+- **Real-Time Updates**: Fetches and displays trending posts every 60 seconds.
+- **Interactive Table**: Displays post titles, upvotes, and URLs in an easy-to-read table format.
+
+---
+
+## Technologies Used
+- **Python**: Core programming language.
+- **Streamlit**: For building the web-based dashboard.
+- **PRAW**: For accessing the Reddit API.
+- **Pandas**: For data manipulation and display.
 
 #Author
 
