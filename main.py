@@ -4,9 +4,9 @@ import pandas as pd
 import time
 
 # Reddit API credentials
-CLIENT_ID = "VerDHbIqxos3fpjf9-Tlbg"
-CLIENT_SECRET = "1pfAtHXB_3pB3jWm4OiIhEQt3A7NsQ"
-USER_AGENT = "Dashboard/1.0 by Able_Ad_3443"
+CLIENT_ID = "Your App ID"
+CLIENT_SECRET = "Your SecretID"
+USER_AGENT = "appname/version by userid"
 
 # Authenticate with Reddit API
 reddit = praw.Reddit(
