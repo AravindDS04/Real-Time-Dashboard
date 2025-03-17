@@ -10,3 +10,8 @@ This project is a **Real-Time COVID-19 Dashboard** built using **Streamlit** and
 
 The *DATASET* link is given in the code file
 
+#Author
+
+*Aravind S*
+*Linked In: www.linkedin.com/in/
+aravind-s-68536b244
